@@ -2,7 +2,7 @@
 
 # Building AI Engineer
 
-### 从计算机本科生到 AI 系统工程师的公开成长记录
+### 从计算机研究生到 AI 系统工程师的公开成长记录
 
 ![GitHub](https://img.shields.io/badge/GitHub-Building_AI_Engineer-181717?style=flat-square&logo=github)
 ![Markdown](https://img.shields.io/badge/Markdown-Notes-000000?style=flat-square&logo=markdown)
