@@ -157,6 +157,7 @@ LLM 原理  →  RAG 检索增强  →  Agent 自主决策  →  AI Systems 系�
 
 | 日期 | 类型 | 标题 | 链接 |
 | :--- | :--- | :--- | :--- |
+| 2026-08-05 | daily | RAG 高级分块：Semantic Chunking、Parent-Child 拓扑、Contextual Retrieval 与 Prompt Caching | [`daily/2026-08-05.md`](./daily/2026-08-05.md) |
 | 2026-07 | daily | Agent Learning 记录：LLM 原理剖析（N-gram → Transformer） | [`daily/Agent Learning记录.md`](./daily/Agent%20Learning记录.md) |
 | 2026-07 | hot-topic | 我的场景为什么需要 Agents，而不是普通的 Workflow？ | [`assets/README.md`](./assets/README.md) |
 
