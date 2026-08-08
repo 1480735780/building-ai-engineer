@@ -157,6 +157,7 @@ LLM 原理  →  RAG 检索增强  →  Agent 自主决策  →  AI Systems 系�
 
 | 日期 | 类型 | 标题 | 链接 |
 | :--- | :--- | :--- | :--- |
+| 2026-08-08 | daily | RAG 检索进阶：Lost in the Middle 现象与 Middle-Out 重排、SelfQueryRetriever 元数据过滤、MultiVectorRetriever 多视角表征 | [`daily/2026-08-08.md`](./daily/2026-08-08.md) |
 | 2026-08-07 | daily | RAG Reranker 原理与工业级实战：Cross-Encoder 精排、BGE-Reranker 微服务架构与 Context Compression 三级压缩 | [`daily/2026-08-07.md`](./daily/2026-08-07.md) |
 | 2026-08-06 | daily | RAG 切分进阶：Proposition Chunking、Agentic Chunking 与多级精排架构 | [`daily/2026-08-06.md`](./daily/2026-08-06.md) |
 | 2026-08-05 | daily | RAG 高级分块：Semantic Chunking、Parent-Child 拓扑、Contextual Retrieval 与 Prompt Caching | [`daily/2026-08-05.md`](./daily/2026-08-05.md) |
