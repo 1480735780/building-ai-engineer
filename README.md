@@ -157,6 +157,7 @@ LLM 原理  →  RAG 检索增强  →  Agent 自主决策  →  AI Systems 系�
 
 | 日期 | 类型 | 标题 | 链接 |
 | :--- | :--- | :--- | :--- |
+| 2026-08-11 | daily | Mneme-rag RoutingLLMService 重构与流式降级（ProbeStreamBridge） | [`daily/2026-08-11.md`](./daily/2026-08-11.md) |
 | 2026-08-10 | daily | Mneme-rag 项目开发进度报告 | [`daily/2026-08-10.md`](./daily/2026-08-10.md) |
 | 2026-08-09 | daily | 第⑤章 项目 Mneme-rag | [`daily/2026-08-09.md`](./daily/2026-08-09.md) |
 | 2026-08-08 | daily | RAG 检索进阶：Lost in the Middle 现象与 Middle-Out 重排、SelfQueryRetriever 元数据过滤、MultiVectorRetriever 多视角表征 | [`daily/2026-08-08.md`](./daily/2026-08-08.md) |
