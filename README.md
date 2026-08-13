@@ -157,6 +157,7 @@ LLM 原理  →  RAG 检索增强  →  Agent 自主决策  →  AI Systems 系�
 
 | 日期 | 类型 | 标题 | 链接 |
 | :--- | :--- | :--- | :--- |
+| 2026-08-13 | daily | Mneme-rag infra-ai 层收官：Rerank/VLM/Token 统计能力层落地与降级权衡 | [`daily/2026-08-13.md`](./daily/2026-08-13.md) |
 | 2026-08-12 | daily | Mneme-rag Embedding 能力层落地与降级策略设计 | [`daily/2026-08-12.md`](./daily/2026-08-12.md) |
 | 2026-08-11 | daily | Mneme-rag RoutingLLMService 重构与流式降级（ProbeStreamBridge） | [`daily/2026-08-11.md`](./daily/2026-08-11.md) |
 | 2026-08-10 | daily | Mneme-rag 项目开发进度报告 | [`daily/2026-08-10.md`](./daily/2026-08-10.md) |
