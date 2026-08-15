@@ -157,6 +157,7 @@ LLM 原理  →  RAG 检索增强  →  Agent 自主决策  →  AI Systems 系�
 
 | 日期 | 类型 | 标题 | 链接 |
 | :--- | :--- | :--- | :--- |
+| 2026-08-15 | daily | Mneme-rag 检索后处理：dedup 跨通道去重键设计与 RRF Fusion 候选池控制 | [`daily/2026-08-15.md`](./daily/2026-08-15.md) |
 | 2026-08-14 | daily | Mneme-rag 检索层设计：RetrievalBudget 三段预算与 RAG 链路 8 阶段编排 | [`daily/2026-08-14.md`](./daily/2026-08-14.md) |
 | 2026-08-13 | daily | Mneme-rag infra-ai 层收官：Rerank/VLM/Token 统计能力层落地与降级权衡 | [`daily/2026-08-13.md`](./daily/2026-08-13.md) |
 | 2026-08-12 | daily | Mneme-rag Embedding 能力层落地与降级策略设计 | [`daily/2026-08-12.md`](./daily/2026-08-12.md) |
