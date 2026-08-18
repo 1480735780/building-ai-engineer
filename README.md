@@ -157,6 +157,7 @@ LLM 原理  →  RAG 检索增强  →  Agent 自主决策  →  AI Systems 系�
 
 | 日期 | 类型 | 标题 | 链接 |
 | :--- | :--- | :--- | :--- |
+| 2026-08-18 | daily | Mneme-rag C 层外部设施落地：共享 collection、PGVector 召回悬崖与 HNSW 调优、多模态同步抽象、MCP 参数提取多级容错 | [`daily/2026-08-18.md`](./daily/2026-08-18.md) |
 | 2026-08-17 | daily | Mneme-rag 检索链路扩展：定向作用域解析、RRF 排序不变式、歧义澄清短路与 Prompt 模板两级缓存 | [`daily/2026-08-17.md`](./daily/2026-08-17.md) |
 | 2026-08-16 | daily | Mneme-rag 入库链路端到端落地：多格式解析路由、中文边界感知切块与维度错配防护 | [`daily/2026-08-16.md`](./daily/2026-08-16.md) |
 | 2026-08-15 | daily | Mneme-rag 检索后处理：dedup 跨通道去重键设计与 RRF Fusion 候选池控制 | [`daily/2026-08-15.md`](./daily/2026-08-15.md) |
