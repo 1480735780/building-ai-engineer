@@ -157,6 +157,7 @@ LLM 原理  →  RAG 检索增强  →  Agent 自主决策  →  AI Systems 系�
 
 | 日期 | 类型 | 标题 | 链接 |
 | :--- | :--- | :--- | :--- |
+| 2026-08-20 | daily | mneme-rag 上线服务四域推进：SSE 流式问答收官（取消路径治理与幂等守卫）、M4 推荐追问、管理端配置缓存失效模式、ChatQueueLimiter 高并发限流与 Redis 原子许可释放 | [`daily/2026-08-20.md`](./daily/2026-08-20.md) |
 | 2026-08-19 | daily | Mneme-rag Web 层落地：FastAPI 复刻 Spring Boot——AppContainer 双 profile、contextvars 跨协程上下文、9 个抽象 DAO、SSE 流式编码与图库搜索三模式 | [`daily/2026-08-19.md`](./daily/2026-08-19.md) |
 | 2026-08-18 | daily | Mneme-rag C 层外部设施落地：共享 collection、PGVector 召回悬崖与 HNSW 调优、多模态同步抽象、MCP 参数提取多级容错 | [`daily/2026-08-18.md`](./daily/2026-08-18.md) |
 | 2026-08-17 | daily | Mneme-rag 检索链路扩展：定向作用域解析、RRF 排序不变式、歧义澄清短路与 Prompt 模板两级缓存 | [`daily/2026-08-17.md`](./daily/2026-08-17.md) |
