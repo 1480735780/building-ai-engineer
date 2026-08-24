@@ -157,6 +157,8 @@ LLM 原理  →  RAG 检索增强  →  Agent 自主决策  →  AI Systems 系�
 
 | 日期 | 类型 | 标题 | 链接 |
 | :--- | :--- | :--- | :--- |
+| 2026-08-24 | daily | mneme-rag 多域大版本（109 文件 +6179 行）：用户认证 PBKDF2 与会话管理、contextvars 审计与幂等守卫、MCP 迁移 ragent_mcp + Streamable HTTP 客户端、ReAct Agent MVP 管线、Dashboard 六 KPI、MinerU 布局解析与检索配置校验 | [`daily/2026-08-24.md`](./daily/2026-08-24.md) |
+| 2026-08-23 | daily | Agent Learning Hub 阶段 0-1 笔记：chatbot/workflow/agent/multi-agent 辨析、agent 基本循环与不适用边界、Anthropic/OpenAI Agent 构建指南、工具调用全链路、上下文优化三方案（滑动窗口/滚动摘要/RAG Memory）与非深度思考幻觉成因 | [`daily/2026-08-23.md`](./daily/2026-08-23.md) |
 | 2026-08-21 | daily | mneme-rag P5 知识库入库层 knowledge 模块落地：17 个 HTTP 端点（K1-K5 / D1-D12）、N0-N2 三里程碑、异步分块分发与上传限流、SSRF 防护与向量落点收敛 | [`daily/2026-08-21.md`](./daily/2026-08-21.md) |
 | 2026-08-20 | daily | mneme-rag 上线服务四域推进：SSE 流式问答收官（取消路径治理与幂等守卫）、M4 推荐追问、管理端配置缓存失效模式、ChatQueueLimiter 高并发限流与 Redis 原子许可释放 | [`daily/2026-08-20.md`](./daily/2026-08-20.md) |
 | 2026-08-19 | daily | Mneme-rag Web 层落地：FastAPI 复刻 Spring Boot——AppContainer 双 profile、contextvars 跨协程上下文、9 个抽象 DAO、SSE 流式编码与图库搜索三模式 | [`daily/2026-08-19.md`](./daily/2026-08-19.md) |
