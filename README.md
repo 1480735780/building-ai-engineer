@@ -157,7 +157,7 @@ LLM 原理  →  RAG 检索增强  →  Agent 自主决策  →  AI Systems 系�
 
 | 日期 | 类型 | 标题 | 链接 |
 | :--- | :--- | :--- | :--- |
-| 2026-08-25 | daily | 例行同步：文档内容与 2026-08-24 完全一致（飞书文档今日无新增），74 张图片全部复用 | [`daily/2026-08-25.md`](./daily/2026-08-25.md) |
+| 2026-08-25 | daily | mneme-rag 前后端联调与容器化部署落地：Vite+React+shadcn/ui 前端 14+ 页面从零构建、手写 SSE 分帧解析器（fetch+ReadableStream）、docker-compose 容器编排与 Nginx SSE proxy_buffering off、seed 幂等初始化与 UnauthorizedException 401 鉴权边界拆分 | [`daily/2026-08-25.md`](./daily/2026-08-25.md) |
 | 2026-08-24 | daily | mneme-rag 多域大版本（109 文件 +6179 行）：用户认证 PBKDF2 与会话管理、contextvars 审计与幂等守卫、MCP 迁移 ragent_mcp + Streamable HTTP 客户端、ReAct Agent MVP 管线、Dashboard 六 KPI、MinerU 布局解析与检索配置校验 | [`daily/2026-08-24.md`](./daily/2026-08-24.md) |
 | 2026-08-23 | daily | Agent Learning Hub 阶段 0-1 笔记：chatbot/workflow/agent/multi-agent 辨析、agent 基本循环与不适用边界、Anthropic/OpenAI Agent 构建指南、工具调用全链路、上下文优化三方案（滑动窗口/滚动摘要/RAG Memory）与非深度思考幻觉成因 | [`daily/2026-08-23.md`](./daily/2026-08-23.md) |
 | 2026-08-21 | daily | mneme-rag P5 知识库入库层 knowledge 模块落地：17 个 HTTP 端点（K1-K5 / D1-D12）、N0-N2 三里程碑、异步分块分发与上传限流、SSRF 防护与向量落点收敛 | [`daily/2026-08-21.md`](./daily/2026-08-21.md) |
