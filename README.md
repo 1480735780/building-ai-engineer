@@ -157,6 +157,7 @@ LLM 原理  →  RAG 检索增强  →  Agent 自主决策  →  AI Systems 系�
 
 | 日期 | 类型 | 标题 | 链接 |
 | :--- | :--- | :--- | :--- |
+| 2026-09-15 | daily | 全量导出复核：与 2026-08-26 内容一致，无新增笔记，仅 MCP invoke() 章节 2 处图片引用编号重排（内容哈希相同） | [`daily/2026-09-15.md`](./daily/2026-09-15.md) |
 | 2026-08-26 | daily | mneme-rag 意图分类向量化与图谱双向同步落地：VectorIntentClassifier 预计算叶子向量+纯 Python 余弦（零 LLM 调用、懒初始化、embedding 失败降级回落 LLM）、GraphSyncingVectorStoreService 从抽象契约到真实实现（写向量后 best-effort 图谱同步、删除链路 graph_cleaner 清理、单块粒度对齐整文重摄契约）、LightRAG compose 无前缀环境变量兼容与 README 重写 | [`daily/2026-08-26.md`](./daily/2026-08-26.md) |
 | 2026-08-25 | daily | mneme-rag 前后端联调与容器化部署落地：Vite+React+shadcn/ui 前端 14+ 页面从零构建、手写 SSE 分帧解析器（fetch+ReadableStream）、docker-compose 容器编排与 Nginx SSE proxy_buffering off、seed 幂等初始化与 UnauthorizedException 401 鉴权边界拆分 | [`daily/2026-08-25.md`](./daily/2026-08-25.md) |
 | 2026-08-24 | daily | mneme-rag 多域大版本（109 文件 +6179 行）：用户认证 PBKDF2 与会话管理、contextvars 审计与幂等守卫、MCP 迁移 ragent_mcp + Streamable HTTP 客户端、ReAct Agent MVP 管线、Dashboard 六 KPI、MinerU 布局解析与检索配置校验 | [`daily/2026-08-24.md`](./daily/2026-08-24.md) |
