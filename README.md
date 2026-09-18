@@ -157,6 +157,7 @@ LLM 原理  →  RAG 检索增强  →  Agent 自主决策  →  AI Systems 系�
 
 | 日期 | 类型 | 标题 | 链接 |
 | :--- | :--- | :--- | :--- |
+| 2026-09-18 | daily | 全量导出复核：与 2026-09-16 内容完全一致，无新增笔记，74 张图片内容哈希全部复用，正文与图片引用零差异 | [`daily/2026-09-18.md`](./daily/2026-09-18.md) |
 | 2026-09-16 | daily | 全量导出复核：与 2026-09-15 完全一致，无新增笔记，74 张图片内容哈希全部复用，正文零差异（无编号重排） | [`daily/2026-09-16.md`](./daily/2026-09-16.md) |
 | 2026-09-15 | daily | 全量导出复核：与 2026-08-26 内容一致，无新增笔记，仅 MCP invoke() 章节 2 处图片引用编号重排（内容哈希相同） | [`daily/2026-09-15.md`](./daily/2026-09-15.md) |
 | 2026-08-26 | daily | mneme-rag 意图分类向量化与图谱双向同步落地：VectorIntentClassifier 预计算叶子向量+纯 Python 余弦（零 LLM 调用、懒初始化、embedding 失败降级回落 LLM）、GraphSyncingVectorStoreService 从抽象契约到真实实现（写向量后 best-effort 图谱同步、删除链路 graph_cleaner 清理、单块粒度对齐整文重摄契约）、LightRAG compose 无前缀环境变量兼容与 README 重写 | [`daily/2026-08-26.md`](./daily/2026-08-26.md) |
