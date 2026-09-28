@@ -94,6 +94,8 @@ building-ai-engineer/
 ├── agent/            # Agent 专题：自主决策、工具调用、多智能体
 ├── systems/          # AI Systems：架构设计、性能、可观测性、部署
 ├── projects/         # 项目实战：真实业务落地的完整案例
+├── jev-learning/     # 专题学习库：Jev（TypeSafe AI System One）全网资料 + 重组精读 + 可运行 demo
+├── rednote/          # 小红书图文成稿（可发布成品）
 └── assets/           # 共享资源（跨笔记复用的图、表、模板）
 ```
 
@@ -106,6 +108,8 @@ building-ai-engineer/
 | [`agent/`](./agent) | Agent 专题：规划、工具调用、记忆、多智能体协作 | 持续 |
 | [`systems/`](./systems) | AI 系统设计：架构、并发、可观测性、成本 | 持续 |
 | [`projects/`](./projects) | 项目实战：WMS 智能仓储等真实业务落地 | 按里程碑 |
+| [`jev-learning/`](./jev-learning) | 专题库：Jev 全网资料（官方/文档/播客/第三方）+ 6 篇重组精读 + 6 个 dry-run demo | 专题驱动 |
+| [`rednote/`](./rednote) | 小红书图文成稿（HTML + 图片），可直接发布 | 按选题 |
 | [`assets/`](./assets) | 跨笔记共享的图、表、模板资源 | 按需 |
 
 ---
@@ -157,6 +161,8 @@ LLM 原理  →  RAG 检索增强  →  Agent 自主决策  →  AI Systems 系�
 
 | 日期 | 类型 | 标题 | 链接 |
 | :--- | :--- | :--- | :--- |
+| 2026-09-28 | daily | 全量导出复核：与 2026-09-26 内容一致，无新增笔记，74 张图片内容哈希全部复用，2 处图片引用编号重排（image 27→14，内容哈希相同），README 附件链接规范化至 ../assets/ | [`daily/2026-09-28.md`](./daily/2026-09-28.md) |
+| 2026-09-26 | topic | 专题库 `jev-learning/`：Jev（TypeSafe AI 的 System One 模型）全网资料抓取与重组 —— 277 文件 / 34.9 MB，含官方 docs 52 页、Latent Space 播客、JevBench v1.4 第三方评测、66 篇全网解读原文、20 篇中文译文、6 篇重组精读、218 节点 XMind 总图、8 天学习地图，以及 6 个可运行 demo（全部默认 `--dry-run`，不调 API 不花钱）。核心结论：Jev 不生成文本、只做 Choice/Score/Noul 有界判断，输出数值 confidence 供代码分支，约 `$0.0004/决策`；**但无官方论文、参数量未公开、probabilities 不保证归一化、JevBench 公开分 0.90 vs 密封分 0.403 落差 49.9pp** | [`jev-learning/README.md`](./jev-learning/README.md) |
 | 2026-09-26 | daily | 全量导出复核：与 2026-09-18 内容完全一致，无新增笔记，74 张图片内容哈希全部复用，正文零差异 | [`daily/2026-09-26.md`](./daily/2026-09-26.md) |
 | 2026-09-18 | daily | 全量导出复核：与 2026-09-16 内容完全一致，无新增笔记，74 张图片内容哈希全部复用，正文与图片引用零差异 | [`daily/2026-09-18.md`](./daily/2026-09-18.md) |
 | 2026-09-16 | daily | 全量导出复核：与 2026-09-15 完全一致，无新增笔记，74 张图片内容哈希全部复用，正文零差异（无编号重排） | [`daily/2026-09-16.md`](./daily/2026-09-16.md) |
@@ -182,12 +188,12 @@ LLM 原理  →  RAG 检索增强  →  Agent 自主决策  →  AI Systems 系�
 | 2026-08-07 | daily | RAG Reranker 原理与工业级实战：Cross-Encoder 精排、BGE-Reranker 微服务架构与 Context Compression 三级压缩 | [`daily/2026-08-07.md`](./daily/2026-08-07.md) |
 | 2026-08-06 | daily | RAG 切分进阶：Proposition Chunking、Agentic Chunking 与多级精排架构 | [`daily/2026-08-06.md`](./daily/2026-08-06.md) |
 | 2026-08-05 | daily | RAG 高级分块：Semantic Chunking、Parent-Child 拓扑、Contextual Retrieval 与 Prompt Caching | [`daily/2026-08-05.md`](./daily/2026-08-05.md) |
-| 2026-07 | daily | Agent Learning 记录：LLM 原理剖析（N-gram → Transformer） | [`daily/Agent Learning记录.md`](./daily/Agent%20Learning记录.md) |
+| 2026-07 | daily | Agent Learning 记录：LLM 原理剖析（N-gram → Transformer）· 无日期版已由带日期副本取代，现归档于 | [`daily/2026-08-26.md`](./daily/2026-08-26.md) |
 | 2026-07 | hot-topic | 我的场景为什么需要 Agents，而不是普通的 Workflow？ | [`assets/README.md`](./assets/README.md) |
 
 <!-- 最近更新格式说明：
 | YYYY-MM-DD | 类型 | 标题 | 链接 |
-类型可选：daily / weekly / hot-topic / project / system
+类型可选：daily / weekly / hot-topic / project / system / topic
 新增内容时在表格首行插入，保持倒序。-->
 
 ---
